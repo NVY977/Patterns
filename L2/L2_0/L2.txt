@@ -1,1 +1,0 @@
-https://refactoring.guru/ru/design-patterns/builder/java/example
